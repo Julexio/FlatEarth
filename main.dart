@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
                 'Julien Mark Bondoc', style: TextStyle(fontSize: 21, fontWeight: FontWeight.bold, color: Colors.black),
               ),
               Text(
-                'Bachelor in Science of Information Technology', style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold, color: Colors.grey),
+                'Bachelor of Science in Information Technology', style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold, color: Colors.grey),
               ),
               SizedBox(height: 125),
               
